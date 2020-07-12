@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="https://media.giphy.com/media/6MWahPArixa6I/giphy.gif" />
 <!--
 **xuanvan229/xuanvan229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
