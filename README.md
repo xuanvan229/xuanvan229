@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Hong Xuan. I am a Front End Developer.
 
 A thing isn’t beautiful because it lasts
 
