@@ -5,6 +5,16 @@ My name is Hong Xuan. I am a Front End Developer.
 I am a cheerful, sociable and carries many aspirations and goals. Learning new languages and technologies is what I am passionate about. I willing help people and work well with group.
 
 ------------------------------------
+
+💻 My weekly language rankings
+-----------------------------------------------------------------
+          javascriptreact : ▮▮▮▮▮▮▮▮▮▮▮ 47.1%
+                     dart : ▮▮▮▮▮ 23.5%
+               javascript : ▮▮▮▮ 17.6%
+                     json : ▮▮ 5.9%
+                     html : ▮▮ 5.9%
+
+
 *A thing isn’t beautiful because it lasts*
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
