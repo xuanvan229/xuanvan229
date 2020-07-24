@@ -15,7 +15,7 @@ I am a cheerful, sociable and carries many aspirations and goals. Learning new l
                      html : ▮▮ 5.9%
 
 
-*A thing isn’t beautiful because it lasts*
+*A thing isn’t beautiful because it lasts.*
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 <!--
