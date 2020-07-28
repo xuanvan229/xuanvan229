@@ -8,11 +8,12 @@ I am a cheerful, sociable and carries many aspirations and goals. Learning new l
 
 💻 My weekly language rankings
 -----------------------------------------------------------------
-          javascriptreact : ▮▮▮▮▮▮▮▮▮▮▮ 47.1%
-                     dart : ▮▮▮▮▮ 23.5%
-               javascript : ▮▮▮▮ 17.6%
-                     json : ▮▮ 5.9%
-                     html : ▮▮ 5.9%
+          javascriptreact : ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮ 63.2%
+                       go : ▮▮ 10.5%
+                plaintext : ▮▮ 10.5%
+                     dart : ▮▮ 5.3%
+                     html : ▮▮ 5.3%
+               javascript : ▮▮ 5.3%
 
 
 *A thing isn’t beautiful because it lasts.*
