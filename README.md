@@ -9,6 +9,7 @@ I am a cheerful, sociable and carries many aspirations and goals. Learning new l
 ------------------------------------
 
 💻 My weekly language rankings
+
 -----------------------------------------------------------------
           javascriptreact : ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮ 63.2%
                        go : ▮▮ 10.5%
