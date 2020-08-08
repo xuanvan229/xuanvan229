@@ -4,7 +4,6 @@ My name is Hong Xuan. I am a Front End Developer.
 
 I am a cheerful, sociable and carries many aspirations and goals. Learning new languages and technologies is what I am passionate about. I willing help people and work well with group.
 
-
 [http://www.xuan.rocks/](http://www.xuan.rocks/)
 
 
