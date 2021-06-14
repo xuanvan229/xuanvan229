@@ -2,21 +2,11 @@
 
 My name is Hong Xuan. I am a Front End Developer. 
 
-I am a cheerful, sociable and carries many aspirations and goals. Learning new languages and technologies is what I am passionate about. I willing help people and work well with group.
+I am a cheerful, sociable and carries many aspirations and goals. Learning new languages and technologies is what I am passionate about. I am willing to help people and work well with group.
 
 [http://www.xuan.rocks/](http://www.xuan.rocks/)
 
 ------------------------------------
-
-💻 My weekly language rankings
-
------------------------------------------------------------------
-          javascriptreact : ▮▮▮▮▮▮▮▮▮▮▮▮▮ 54.2%
-               javascript : ▮▮▮▮▮▮ 25.0%
-                plaintext : ▮▮ 8.3%
-                       go : ▮▮ 8.3%
-                     dart : ▮▮ 4.2%
-
 
 *A thing isn’t beautiful because it lasts.*
 
